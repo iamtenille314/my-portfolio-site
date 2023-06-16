@@ -133,6 +133,72 @@ textarea {
   h5 {
     font-size: 1.5rem;
   }
+
+  .project-link,
+.language-wrapper p,
+.tool-wrapper p {
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  color: #351D77;
+}
+
+.about-info h4,
+.contact-title {
+  font-weight: 400;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Alata', sans-serif;
+  line-height: 1.5;
+  width: 100%
+}
+
+p,
+li {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+span {
+  font-weight: bold;
+}
+
+img {
+  width: 100%;
+}
+
+figure {
+  margin: 0;
+}
+
+address {
+  font-style: normal;
+}
+
+/* Structural Styles */
+header,
+#work,
+#skills,
+#about,
+footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-flow: row wrap;
+}
+
+.content-wrapper {
+  width: 85%;
+}
+
+#work p,
+#about p {
+  width: 100%;
+  text-align: left;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
