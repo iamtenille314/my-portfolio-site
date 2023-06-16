@@ -87,6 +87,52 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   /* General Styles*/
+   body {
+    font-size: 1em;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #351D77;
+   }
+
+   ul, ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   }
+
+   a {
+    color: #351D77;
+    text-decoration: none;
+   }
+
+   h1 {
+    color: #351D77;
+    font-family: 'Alata', sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.5;
+    width: 100%;
+   }
+
+   h2 {
+    color: #351D77;
+    font-family: 'Alata', sans-serif;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    width: 100%;
+    font-weight: 400;
+   }
+
+   h3 {
+    font-size: 1.75rem;
+  }
+  
+  h4 {
+    font-size: 1.25rem;
+  }
+  
+  h5 {
+    font-size: 1.5rem;
+  }
 /* ==========================================================================
    Helper classes
    ========================================================================== */
