@@ -579,7 +579,6 @@ footer .social-icons li i {
   header nav ul li {
     font-size: 1rem;
   }
-}
 
 header {
   padding-top: 60px;
@@ -769,6 +768,7 @@ footer .social-icons li i {
 
 footer .copyright {
   width: 100%;
+}
 }
 
 @media only screen and (min-width:1024px) {
